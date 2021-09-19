@@ -17,21 +17,21 @@
             <div class="p-5 mb-4 rounded-3">
                 <div class="container">
                     <h1 class="display-5 fw-bold">
-                        Bem vindo(a)!
+                        Welcome!
                     </h1>
-                    <p class="col-md-8 fs-4">
-                        Este é o meu site, aqui você poderá encontrar todo meu conteúdo 
-                        relacionado ao <span>Web Desenvolvimento</span>.
+                    <p class="col-md-12 fs-4">
+                        That's my website, here you can learn a little about my journey as a tech geek and former software developer.
                     </p>
-                    <a href="/contato.php" class="btn btn-outline-dark btn-lg">
-                        Contato
-                    </a>
+                    <h2 class="d-inline col-8 text-muted">Grab yourself some coffee and let's begin our journey!</h2>
+                    
+                    <div class="home-coffee">
+                    <img src="https://64.media.tumblr.com/tumblr_m9xxhe22K21qg6rkio1_500.gifv">
+                    </div>
                 </div>
             </div>
         </main>
-        <footer class="container py-3 mt-auto text-muted border-top">
-        © 2021
-        </footer>
-        
+        <?php
+            require "./components/footer.php";
+        ?>
     </body>
 </html>

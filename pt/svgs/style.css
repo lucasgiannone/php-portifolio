@@ -1,0 +1,11 @@
+.svg-box{
+    display: flex;
+    justify-content: center;
+    margin: 10vh;
+}
+.svg-box>div>a{
+    color:#212529;
+}
+.svg-box>div>a:hover{
+    color:#212529f0;
+}

@@ -1,0 +1,7 @@
+Desde os 8 anos, desenvolvi minha curiosidade sobre a Programação, na época incentivado pelos jogos online em Flash, comecei a pesquisar tudo sobre a linguagem (ActionScript) e como poderia criar meu próprio jogo.
+
+Após muitos projetos não finalizados e estudos de diversas linguagens e ferramentas de desenvolvimento de games, desisti da ideia de ser um GameDev.
+
+Com toda experiência que obtive, comecei a explorar toda a área de tecnologia de informação, hardware, software, redes, topologias, criação de servidores, virtualização, gerenciamento de recursos, e muitos outros tópicos, todos relacionados entre si.
+
+Diante todos os tópicos da TI, escolhi como meu foco o Desenvolvimento de Software voltado a otimização de processos dentro de empresas, analisando as necessidades a partir da fonte do problema e suas possíveis soluções.
